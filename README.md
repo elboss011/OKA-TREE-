@@ -1,64 +1,79 @@
-# OAK TREE COMPANY - DATA ANALYSIS SUMMARY
+📊 While working on a retail sales data analysis project, I identified several key insights 👇
 
-This project analyzes retail sales data by integrating multiple datasets 
-(Orders, Products, Retailers, Returns) and transforming them into a structured analytical model.
+After collecting and integrating data from multiple sources (Orders / Products / Retailers / Returns), I built a structured data model and conducted exploratory data analysis (EDA) along with KPI tracking.
 
-----------------------------------------
-KEY BUSINESS INSIGHTS
-----------------------------------------
+💰 Overall Performance
+The business generated approximately 7M in total revenue and 4M in profit, with a ~52% profit margin.
 
-1. Overall Performance
-The business generated 7M in total sales and 4M in profit, with a strong profit margin of ~52%.
-This indicates a highly profitable but potentially conservative growth strategy.
+This indicates strong profitability; however, it also suggests a focus on profitability optimization rather than revenue growth.
 
-2. Customer Segmentation
-Male customers contribute 56% of total sales, while females contribute 44%,
-highlighting an opportunity to expand in the female segment.
+🧍 Customer Segmentation
+Male customers contribute a larger share of sales (~56%), compared to female customers.
 
-3. Product Performance
-Hoodies & Sweatshirts dominate sales (~2M) with the highest margins (~92%).
-Bras & Tops show the weakest performance (~12%), indicating poor profitability.
+This highlights a clear opportunity to expand within the female segment and improve customer distribution.
 
-4. Size Analysis
-Large (L) and Extra Large (XL) sizes account for the majority of sales,
-suggesting demand concentration in larger sizes and the need for optimized inventory planning.
+🛍️ Product Performance
+A single category (Hoodies & Sweatshirts) dominates sales and delivers the highest margins.
 
-5. Color Preferences
-Core colors such as Black, Blue, and Red drive most sales,
-while niche colors underperform significantly.
+In contrast, other categories show significantly lower profitability.
 
-6. Geographic Insights
-Sales are highly concentrated in the South East region,
-creating geographic dependency and potential risk.
+This indicates product concentration risk and highlights the need for product portfolio optimization and pricing strategy adjustments.
 
-7. Sales Channels
-Franchise channels dominate sales compared to supermarkets and small chains,
-indicating lack of channel diversification.
+📦 Size Analysis
+L and XL sizes account for the majority of sales.
 
-8. Returns Analysis
-A total of 528 returned orders were recorded.
-Returns still impact profitability and require deeper investigation.
+This reflects demand concentration and emphasizes the importance of inventory optimization to prevent stock shortages and lost sales.
 
-9. Time Trends
-Sales remained relatively stable from 2018 to 2021,
-while profit margins slightly improved.
-This indicates a focus on profitability over revenue growth.
+🎨 Color Analysis
+Core colors such as Black, Blue, and Red are the top-performing.
 
-10. Sales vs Cost Relationship
-A strong linear relationship exists between sales and cost,
-indicating stable pricing and cost control.
+Less popular colors show weak performance.
 
-----------------------------------------
-BUSINESS CONCLUSION
-----------------------------------------
+This insight supports better decision-making in product design and demand forecasting.
 
-The company demonstrates strong profitability and operational stability.
-However, it relies heavily on specific products, regions, and sales channels,
-which introduces concentration risk.
+🌍 Geographic Analysis
+Sales are heavily concentrated in one region (South East).
 
-Future improvements should focus on:
-- Diversifying product categories
-- Expanding underperforming regions
-- Optimizing inventory based on size demand
-- Reducing returns
-- Increasing revenue growth while maintaining margins
+This indicates geographic concentration risk and limited market diversification.
+
+🏪 Channel Performance
+The Franchise channel dominates overall sales.
+
+This suggests limited channel diversification and may impact business scalability.
+
+🔄 Returns Analysis
+Approximately 528 orders were returned.
+
+While not a critical volume, returns still impact net profit and require root cause analysis (RCA) to identify underlying issues.
+
+📈 Time Trend Analysis
+Sales remain relatively stable over time, while profit margins show slight improvement.
+
+This reflects a focus on operational efficiency rather than business expansion.
+
+⚖️ Sales vs Cost Relationship
+There is a strong positive correlation between sales and cost.
+
+This indicates a stable pricing strategy and effective cost control.
+
+---
+
+🤔 Analytical Perspective:
+
+The business demonstrates strong profitability and operational stability.
+
+However, it shows a high dependency on:
+
+* Specific product categories
+* A single geographic region
+* One dominant sales channel
+
+This creates a clear concentration risk that could impact long-term sustainability.
+
+👉 Recommendations:
+
+* Product diversification
+* Geographic expansion
+* Channel optimization
+* Balancing revenue growth with profitability
+* Enhancing sales scalability
